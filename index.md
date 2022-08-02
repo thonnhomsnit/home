@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](https://thonnhomsnit.github.io/thonnh.github.io/testpage) and ![Image](src)
 ```
-### [testpage link](https://thonnhomsnit.github.io/web-test/testpage)
+### [จิ้มลิงค์นี้ดู๊](https://thonnhomsnit.github.io/web-test/testpage)
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
