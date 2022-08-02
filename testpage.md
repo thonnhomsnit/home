@@ -1,18 +1,14 @@
-layout: page
-title: "test page title"
-permalink: /testpage/
 
-Syntax highlighted code block
 
 # กดลิงค์
 ## เข้ามา
 ### ทำไม?
 
-- Bulleted
-- List
+- อิอิ
+- อิอิ
 
-1. Numbered
-2. List
+1. อุอุ
+2. แอะแอะ
 
 **Bold** and _Italic_ and `Code` text
 
