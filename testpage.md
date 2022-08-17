@@ -1,15 +1,4 @@
-
-
 # Finite element model
-## เข้ามา
-### ทำไม?
 
-- อิอิ
-- อิอิ
-
-1. อุอุ
-2. แอะแอะ
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+This topic is about the finite element model setup on the LS-DYNA program.
+First, The meshed model has to be done by constructing the geometry via solidworks and meshing via hypermesh.
