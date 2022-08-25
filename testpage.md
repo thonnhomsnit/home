@@ -1,5 +1,6 @@
 # How to use HPC
 -[Submit job via SSH protocal](#submit-job-via-ssh-protocal)
+
 -[Common problems](#common-problems)
 
 ## Submit job via SSH protocal
