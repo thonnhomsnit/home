@@ -1,7 +1,7 @@
 # How to use HPC
->[Submit job via SSH protocal](#submit-job-via-ssh-protocal)
->
->[Common problems](#common-problems)
+-[Submit job via SSH protocal](#submit-job-via-ssh-protocal)
+-[Common problems](#common-problems)
+
 ## Submit job via SSH protocal
 
 1. Enter the password. The **** thingy will not show on the command line interface. But don't worry, you are typing correctly.
