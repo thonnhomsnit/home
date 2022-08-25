@@ -26,11 +26,11 @@ $cd -
 ## Common problems
 
 1. "Eqw" means that the job is waiting in error state. It may caused by temporarily server down.
-  - Check the cause
+  - Check the cause by using 
 ```markdown
 $qstat -j jobid 
 ```
-  - Clear error state to rerun '''$qmod -cj jobid'''
+  - Clear error state to rerun
 ```markdown
 $qmod -cj jobid
 ```
