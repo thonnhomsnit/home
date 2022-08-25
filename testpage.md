@@ -1,6 +1,8 @@
-#How to use HPC
-
-## A. Submit job via SSH protocal
+# How to use HPC
+>[Submit job via SSH protocal](https://thonnhomsnit.github.io/master-thesis/testpage.html#submit-job-via-ssh-protocal)
+>
+>[Common problems](https://thonnhomsnit.github.io/master-thesis/testpage.html#common-problems)
+## Submit job via SSH protocal
 
 1. Enter the password. The **** thingy will not show on the command line interface. But don't worry, you are typing correctly.
 2. Get in to your job's directory by using 'cd' command.
@@ -20,7 +22,7 @@ $qsub job.sh
 $cd - 
 ``` 
 
-## B.HPC problems
+## Common problems
 
 1. "Eqw" means that the job is waiting in error state. It may caused by temporarily server down.
   - Check the cause
