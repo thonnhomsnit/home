@@ -1,4 +1,26 @@
-# HPC problems
+How to use HPC
+
+## A. Submit job via SSH protocal
+
+1. Enter the password. The **** thingy will not show on the command line interface. But don't worry, you are typing correctly.
+2. Get in to your job's directory by using 'cd' command.
+```markdown
+$cd (your job's directory)
+```
+3. Optional: You can check the job.sh detail by using 'cat' command before submitting the job.sh file.
+```markdown
+$cat job.sh 
+```
+4. Submit the job.sh file by using 'qsub' command.
+```markdown
+$qsub job.sh 
+```
+5. If you want to submit another job in other directory, you can use 'cd' again to go back in the home directory and follow the procedure from step 1 to 4.
+```markdown
+$cd - 
+``` 
+
+## B.HPC problems
 
 1. "Eqw" means that the job is waiting in error state. It may caused by temporarily server down.
   - Check the cause
