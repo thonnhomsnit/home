@@ -1,7 +1,28 @@
 # How to use HPC
+-[job.sh file preparation](#job.sh-file-preparation)
+
 -[Submit job via SSH protocal](#submit-job-via-ssh-protocal)
 
 -[Common problems](#common-problems)
+
+
+## job.sh file preparation
+The bash script in job.sh file is used as the job configuration for submitting the job in HPC. The job.sh has the certain structure including the null space at the last line of the script as shown
+
+```markdown
+#!/bin/bash
+#$ -cwd
+#$ -v LSTC_LICENSE
+#$ -v LSTC_LICENSE_SERVER={ip-address}
+#$ -v lstc_s
+#$ -v lstc_d
+#$ -N {jobname}
+#$ -q short.q
+#$ -pe orte {cpu-core}
+
+$lstc_d "memory=99999999 ncpu=$NSLOTS i={filename}.k"
+
+```
 
 ## Submit job via SSH protocal
 
