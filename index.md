@@ -1,6 +1,6 @@
-## Machine learning for s-rail
+## Thonn Homsnit website :D
 
-This site contains master thesis's detail and some of documentation for implementing subtasks
+This site contains my master thesis's detail and some of documentation for implementing subtasks
 
 ### Jekyll Themes
 
