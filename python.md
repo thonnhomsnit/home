@@ -25,5 +25,9 @@ from keras.layers import Dropout
 from keras.models import Sequential 
 from keras.layers import Dense, LSTM, Flatten
 ```
+For example, if you would like to install 'numpy' package, you need to find the available packgage in https://anaconda.org/anaconda/repo and install by using this script.
 
+```markdown
+conda install {package name}
+```
 ## Common problems
