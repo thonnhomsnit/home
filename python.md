@@ -31,5 +31,5 @@ For example, if you would like to install 'numpy' package, you need to find the 
 conda install {package name}
 ```
 
-![alt text for screen readers](/path/to/interface.png "interface")
+![alt text for screen readers](interface.png "interface")
 ## Common problems
