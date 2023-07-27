@@ -1,4 +1,4 @@
-# How to use HPC
+# Python
 -[job.sh file preparation](#job.sh-file-preparation)
 
 -[Submit job via SSH protocal](#submit-job-via-ssh-protocal)
