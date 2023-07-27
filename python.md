@@ -8,7 +8,7 @@
 
 ## Download Anaconda
 Anaconda is the platform that has a lot of tools including Spyder IDE which will be the main IDE that we will use.
-To install Anaconda, you need to download from this [link](#https://www.anaconda.com/download). The installation process is very straightforward.
+To install Anaconda, you need to download from the [link](https://www.anaconda.com/download). The installation process is very straightforward.
 
 ## Setting an environment
 Before coding, you must setup and install some libraries into your environment because the python script will use several libraries as shown below.
