@@ -30,4 +30,6 @@ For example, if you would like to install 'numpy' package, you need to find the 
 ```markdown
 conda install {package name}
 ```
+
+![alt text for screen readers](/path/to/interface.png "interface")
 ## Common problems
