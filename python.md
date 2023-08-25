@@ -1,9 +1,9 @@
 # Python
--[Download Anaconda](#Download-Anaconda)
+-[Download Anaconda](#download-Anaconda)
 
--[Setting an environment](#Setting-an-environment)
+-[Setting an environment](#setting-an-environment)
 
--[Original script](#Original-script)
+-[Original script](#original-script)
 
 
 ## Download Anaconda
