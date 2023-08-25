@@ -3,7 +3,7 @@
 
 -[Setting an environment](#Setting-an-environment)
 
--[Common problems](#common-problems)
+-[Original script](#Original-script)
 
 
 ## Download Anaconda
@@ -32,4 +32,24 @@ conda install {package name}
 ```
 
 ![alt text for screen readers](interface.png "interface")
-## Common problems
+
+## Original script
+
+```markdown
+# Define the model
+model = Sequential()
+model.add(LSTM(units=50, activation='relu', return_sequences=True, input_shape=(2, 6)))
+model.add(LSTM(units=25, activation="relu"))
+model.add(Dense(units=25))
+model.add(Dense(units=4))
+model.add(Dense(units=2, activation='relu')) #ของ อ.สมโภชเป็น tanh
+
+# Compile the model
+model.compile(loss='mean_squared_error', optimizer='adam', metrics=['accuracy'])
+
+# Print a summary of the model
+model.summary()
+
+# Train the model
+model.fit(X_data, Y_data, epochs=100, verbose=1, batch_size=32)
+```
