@@ -1,4 +1,4 @@
-# Python Installation
+# Python
 -[Download Anaconda](#Download-Anaconda)
 
 -[Setting an environment](#Setting-an-environment)
